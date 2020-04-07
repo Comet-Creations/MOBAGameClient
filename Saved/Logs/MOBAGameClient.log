@@ -2553,3 +2553,785 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-08.13.57:821][982]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.07-08.13.57:821][982]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.04.07-08.13.57:821][982]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.07-08.14.41:672][505]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-08.14.41:718][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.14.41:720][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-08.14.41:720][505]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 6, 2020, 10:14:41 PM)
+[2020.04.07-08.14.41:720][505]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.14.41:735][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014428s)
+[2020.04.07-08.14.41:736][505]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.07-08.14.41:736][505]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2020.04.07-08.14.41:736][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015460s)
+[2020.04.07-08.14.41:795][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-08.14.41:796][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-08.14.41:796][505]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-08.14.41:796][505]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: Name: Speakers (2- High Definition Audio Device)
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: Channel Order:
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-08.14.41:823][505]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-08.14.41:833][505]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2020.04.07-08.14.41:835][505]LogInit: FAudioDevice initialized.
+[2020.04.07-08.14.41:845][505]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.07-08.14.41:851][505]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.07-03.14.41
+[2020.04.07-08.14.41:852][505]LogWorld: Bringing up level for play took: 0.006676
+[2020.04.07-08.14.41:853][505]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.04.07-08.14.41:857][505]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.71
+[2020.04.07-08.14.41:857][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.14.41:857][505]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.14.41:857][505]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.14.41:857][505]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.14.41:858][505]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.14.41:858][505]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.14.41:858][505]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.14.41:858][505]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.14.41:858][505]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.14.41:858][505]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.14.42:441][556]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.14.42:441][556]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.14.42:441][556]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.14.42:553][567]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.42:553][567]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.14.42:553][567]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.42:560][568]LogBlueprintUserMessages: [SideMinion5_14] SPOTTED
+[2020.04.07-08.14.42:561][568]LogBlueprintUserMessages: [SideMinion5_14] CAN NOT SEE PLAYER
+[2020.04.07-08.14.42:674][576]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.14.42:767][582]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.14.42:767][582]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.14.42:767][582]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.14.43:174][609]LogBlueprintUserMessages: [SideMinion4_11] SPOTTED
+[2020.04.07-08.14.43:174][609]LogBlueprintUserMessages: [SideMinion4_11] CAN NOT SEE PLAYER
+[2020.04.07-08.14.43:276][616]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.14.43:682][642]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.14.44:135][670]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.44:428][688]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.44:592][698]LogBlueprintUserMessages: [SideMinion3_8] SPOTTED
+[2020.04.07-08.14.44:592][698]LogBlueprintUserMessages: [SideMinion3_8] CAN NOT SEE PLAYER
+[2020.04.07-08.14.44:708][705]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.14.44:807][711]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.14.45:316][742]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.14.46:520][812]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.14.46:520][812]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.14.47:456][863]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.47:474][864]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.47:866][885]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.47:884][886]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.47:884][886]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.14.47:938][889]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.14.47:938][889]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.47:956][890]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.48:291][908]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.48:385][913]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.48:401][914]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.48:421][915]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.48:583][924]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.48:602][925]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.14.48:749][933]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.49:286][963]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.49:878][  2]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.14.50:300][ 26]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.14.50:812][ 56]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.14.52:698][171]LogBlueprintUserMessages: [Minion_3] HIT
+[2020.04.07-08.14.52:698][171]LogBlueprintUserMessages: [Minion_3] STILL ALIVE
+[2020.04.07-08.14.52:831][180]LogBlueprintUserMessages: [Minion3_5] HIT
+[2020.04.07-08.14.52:832][180]LogBlueprintUserMessages: [Minion3_5] STILL ALIVE
+[2020.04.07-08.14.52:846][181]LogBlueprintUserMessages: [Minion3_5] HIT
+[2020.04.07-08.14.52:847][181]LogBlueprintUserMessages: [Minion3_5] STILL ALIVE
+[2020.04.07-08.14.53:735][234]LogCharacterMovement: SideMinion_2 is stuck and failed to move! Velocity: X=23.95 Y=-24.26 Z=0.00 Location: X=-2298.26 Y=-866.08 Z=248.65 Normal: X=-0.85 Y=0.53 Z=0.00 PenetrationDepth:13.317 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2020.04.07-08.14.54:295][265]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.14.54:628][283]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.14.57:194][428]LogCharacterMovement: SideMinion2_5 is stuck and failed to move! Velocity: X=27.85 Y=0.81 Z=0.00 Location: X=-2466.00 Y=-860.27 Z=248.65 Normal: X=-0.81 Y=0.59 Z=-0.00 PenetrationDepth:3.807 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2020.04.07-08.14.59:307][556]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.59:747][582]LogCharacterMovement: SideMinion2_5 is stuck and failed to move! Velocity: X=32.92 Y=0.78 Z=0.00 Location: X=-2465.97 Y=-859.36 Z=248.65 Normal: X=-0.98 Y=-0.22 Z=0.00 PenetrationDepth:13.415 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:lowerarm_l (6 other events since notify)
+[2020.04.07-08.14.59:765][583]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.14.59:782][584]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.14.59:970][595]LogCharacterMovement: BlueBuff_2 is stuck and failed to move! Velocity: X=339.41 Y=-230.17 Z=0.00 Location: X=-2391.78 Y=-835.93 Z=248.73 Normal: X=-0.85 Y=0.52 Z=0.00 PenetrationDepth:8.757 Actor:SideMinion_2 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2020.04.07-08.14.59:987][596]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.14.59:987][596]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.00:007][597]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.00:073][601]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.00:141][605]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.00:141][605]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.00:209][609]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.00:312][615]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.00:494][626]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.00:494][626]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.00:910][651]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.01:511][687]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.01:924][711]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.01:924][711]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.15.02:212][728]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.02:212][728]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.02:866][764]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.02:867][764]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.02:902][766]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.03:009][772]LogCharacterMovement: SideMinion_2 is stuck and failed to move! Velocity: X=32.26 Y=11.68 Z=0.00 Location: X=-2417.17 Y=-965.69 Z=248.65 Normal: X=-0.63 Y=-0.77 Z=-0.00 PenetrationDepth:8.294 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2020.04.07-08.15.04:039][830]LogCharacterMovement: SideMinion_2 is stuck and failed to move! Velocity: X=30.48 Y=11.10 Z=0.00 Location: X=-2416.86 Y=-965.94 Z=248.65 Normal: X=-0.62 Y=-0.78 Z=-0.00 PenetrationDepth:8.291 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:hand_l (27 other events since notify)
+[2020.04.07-08.15.04:465][854]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.05:051][888]LogCharacterMovement: SideMinion_2 is stuck and failed to move! Velocity: X=30.36 Y=11.06 Z=0.00 Location: X=-2416.86 Y=-965.94 Z=248.65 Normal: X=-0.62 Y=-0.78 Z=-0.00 PenetrationDepth:8.291 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:hand_l (28 other events since notify)
+[2020.04.07-08.15.05:285][902]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.05:285][902]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.05:448][912]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.05:599][921]LogBlueprintUserMessages: [Minion2_2] HIT
+[2020.04.07-08.15.05:599][921]LogBlueprintUserMessages: [Minion2_2] STILL ALIVE
+[2020.04.07-08.15.05:615][922]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.05:615][922]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.06:487][974]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.15.06:822][993]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.06:823][993]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.06:823][993]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.15.06:839][994]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.07:656][ 39]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.15.07:919][ 54]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.07:919][ 54]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.15.10:689][229]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.10:689][229]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.10:703][230]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.10:751][233]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.10:751][233]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.15.10:765][234]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.11:288][267]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.11:288][267]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.11:731][294]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.15.11:830][300]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.12:062][314]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.12:063][314]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.12:514][341]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.12:653][349]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.12:653][349]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.12:690][351]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.12:690][351]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.12:742][354]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.12:742][354]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.13:014][369]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.13:261][383]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.13:261][383]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.13:296][385]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.13:624][404]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.15.13:864][418]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.13:864][418]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.13:949][423]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.15.13:949][423]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.14:147][435]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.14:654][465]LogBlueprintUserMessages: [DecrementPathIndex_C_0] INDEX CHANGED
+[2020.04.07-08.15.14:670][466]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.15.14:977][484]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.15:227][499]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.15.15:239][499]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.07-08.15.15:259][499]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.07-08.15.15:259][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.15:261][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.15.15:262][499]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.15.15:262][499]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.15.15:262][499]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-08.15.15:263][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.15.15:276][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-08.15.15:276][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.15:283][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.15.15:331][499]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.15.15:335][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.15.15:340][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.04.07-08.15.15:366][500]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.04.07-08.15.16:612][642]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-08.15.16:658][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.16:660][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-08.15.16:660][642]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 6, 2020, 10:15:16 PM)
+[2020.04.07-08.15.16:660][642]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.15.16:673][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012445s)
+[2020.04.07-08.15.16:673][642]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.07-08.15.16:674][642]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2020.04.07-08.15.16:674][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013549s)
+[2020.04.07-08.15.16:730][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.04.07-08.15.16:731][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-08.15.16:731][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-08.15.16:732][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-08.15.16:732][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-08.15.16:732][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-08.15.16:732][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-08.15.16:732][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-08.15.16:732][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-08.15.16:732][642]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-08.15.16:732][642]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: Name: Speakers (2- High Definition Audio Device)
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: Channel Order:
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-08.15.16:759][642]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-08.15.16:770][642]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2020.04.07-08.15.16:772][642]LogInit: FAudioDevice initialized.
+[2020.04.07-08.15.16:785][642]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.07-08.15.16:789][642]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.07-03.15.16
+[2020.04.07-08.15.16:791][642]LogWorld: Bringing up level for play took: 0.005041
+[2020.04.07-08.15.16:791][642]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.04.07-08.15.16:795][642]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.351
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.15.16:796][642]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.15.16:797][642]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.15.17:382][693]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.15.17:382][693]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.15.17:382][693]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.15.17:487][703]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.15.17:487][703]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.15.17:487][703]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.15.17:702][724]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:709][725]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.17:709][725]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.17:709][725]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.17:711][725]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:721][726]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:740][727]LogD3D12RHI: Creating RTPSO with 107 shaders (106 cached, 1 new) took 21.34 ms. Compile time 8.16 ms, link time 12.84 ms.
+[2020.04.07-08.15.17:746][727]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:758][728]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:773][729]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:788][730]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:803][731]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:816][732]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:832][733]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:846][734]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:862][735]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:875][736]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:890][737]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:902][738]LogBlueprintUserMessages: [SideMinion5_14] SPOTTED
+[2020.04.07-08.15.17:902][738]LogBlueprintUserMessages: [SideMinion5_14] CAN NOT SEE PLAYER
+[2020.04.07-08.15.17:905][738]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:921][739]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.17:934][740]LogScript: Warning: Accessed None trying to read property EquippedWeapon
+	MagicHUD_C /Engine/Transient.UnrealEdEngine_0:MobaGameInstance_C_10.MagicHUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/HUD/MagicHUD.MagicHUD_C:GetAmmoCount:00A9
+[2020.04.07-08.15.18:007][745]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.15.18:377][771]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.18:390][772]LogBlueprintUserMessages: [SideMinion4_11] SPOTTED
+[2020.04.07-08.15.18:390][772]LogBlueprintUserMessages: [SideMinion4_11] CAN NOT SEE PLAYER
+[2020.04.07-08.15.18:501][780]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.15.18:517][781]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.15.19:016][813]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.15.19:016][813]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.19:283][830]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.22:013][ 11]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.22:046][ 13]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.22:300][ 28]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.22:300][ 28]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.22:319][ 29]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.22:319][ 29]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.15.22:335][ 30]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.22:335][ 30]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.22:462][ 37]LogBlueprintUserMessages: [SideMinion3_8] SPOTTED
+[2020.04.07-08.15.22:462][ 37]LogBlueprintUserMessages: [SideMinion3_8] CAN NOT SEE PLAYER
+[2020.04.07-08.15.22:569][ 43]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.15.23:293][ 82]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.23:293][ 82]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.23:329][ 84]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.23:441][ 90]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.23:814][110]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.23:873][113]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.23:927][116]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.24:138][129]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.24:138][129]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.25:847][230]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.25:847][230]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.25:879][232]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.26:426][267]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.26:426][267]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.30:294][517]LogBlueprintUserMessages: [Minion2_2] hit
+[2020.04.07-08.15.30:393][524]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.15.30:720][546]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.31:244][581]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.31:244][581]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.32:154][638]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.32:154][638]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.32:382][652]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.32:382][652]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.15.32:399][653]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.32:670][670]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.15.33:002][691]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.34:628][794]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.34:628][794]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.35:388][842]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.35:388][842]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.35:531][851]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.35:531][851]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.35:761][866]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.35:790][868]LogCharacterMovement: SideMinion_2 is stuck and failed to move! Velocity: X=-92.50 Y=-42.33 Z=0.00 Location: X=-2269.52 Y=-844.78 Z=248.69 Normal: X=0.65 Y=0.76 Z=0.00 PenetrationDepth:0.000 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2020.04.07-08.15.36:306][902]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.36:338][904]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.36:338][904]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.36:676][926]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.36:801][934]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.37:411][971]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.37:411][971]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.37:411][971]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.37:710][989]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.37:930][  2]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.38:249][ 21]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.38:590][ 42]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.38:608][ 43]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.38:811][ 55]LogBlueprintUserMessages: [Minion3_5] hit
+[2020.04.07-08.15.39:217][ 79]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.15.39:217][ 79]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.39:252][ 81]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.39:253][ 81]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.39:323][ 85]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.39:323][ 85]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.39:541][ 97]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.39:827][113]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.39:934][119]LogBlueprintUserMessages: [Minion_3] hit
+[2020.04.07-08.15.41:125][195]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.41:125][195]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.41:141][196]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.41:227][201]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.41:227][201]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.41:242][202]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.41:810][236]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.41:810][236]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.42:095][253]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.42:095][253]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.42:143][256]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.42:143][256]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.42:427][273]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.42:927][304]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.42:927][304]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.44:041][366]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.44:041][366]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.15.44:073][368]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.44:154][373]LogCharacterMovement: SideMinion2_5 is stuck and failed to move! Velocity: X=-222.77 Y=-9.60 Z=0.00 Location: X=-2296.40 Y=-841.36 Z=248.81 Normal: X=0.98 Y=0.22 Z=0.00 PenetrationDepth:0.749 Actor:SideMinion_2 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2020.04.07-08.15.44:231][378]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.44:398][389]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.44:398][389]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.15.44:412][390]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.44:772][415]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.45:139][441]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.45:225][447]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.45:818][489]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.46:176][514]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.46:421][531]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.46:717][552]LogCharacterMovement: SideMinion_2 is stuck and failed to move! Velocity: X=-23.66 Y=-14.30 Z=0.00 Location: X=-2354.84 Y=-881.62 Z=248.45 Normal: X=0.05 Y=1.00 Z=-0.00 PenetrationDepth:7.957 Actor:BlueBuff_2 Component:CharacterMesh0 BoneName:hand_r (2 other events since notify)
+[2020.04.07-08.15.46:845][561]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.46:987][571]LogBlueprintUserMessages: [DecrementPathIndex_C_0] INDEX CHANGED
+[2020.04.07-08.15.47:313][594]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.47:778][627]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.47:846][632]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.47:846][632]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.48:210][658]LogBlueprintUserMessages: [DecrementPathIndex_C_0] INDEX CHANGED
+[2020.04.07-08.15.48:422][673]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.48:422][673]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.48:535][681]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.49:469][747]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.49:567][754]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.49:567][754]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.49:836][773]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.49:836][773]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.50:417][814]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.50:418][814]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.50:504][820]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.51:561][893]LogBlueprintUserMessages: [DecrementPathIndex_C_0] INDEX CHANGED
+[2020.04.07-08.15.51:883][915]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.51:884][915]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.52:485][955]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.52:577][961]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.53:014][990]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.53:091][995]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.53:091][995]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.53:440][ 19]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.53:642][ 33]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.53:975][ 56]LogBlueprintUserMessages: [Minion_AI_C_1] MagicCharacter_C_0
+[2020.04.07-08.15.54:221][ 73]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.54:250][ 75]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.54:566][ 97]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.55:098][134]LogBlueprintUserMessages: [Minion_AI_C_2] MagicCharacter_C_0
+[2020.04.07-08.15.56:037][198]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.56:635][239]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.57:242][283]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.57:326][289]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.57:694][315]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.58:239][353]LogBlueprintUserMessages: [Minion_AI_C_0] MagicCharacter_C_0
+[2020.04.07-08.15.58:396][364]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.15.58:396][364]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.15.58:396][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.58:398][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.15.58:398][364]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.15.58:398][364]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.15.58:399][364]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-08.15.58:399][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.15.58:426][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-08.15.58:426][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.58:433][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.15.58:483][364]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.15.58:486][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.15.58:493][364]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.04.07-08.15.58:517][365]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.04.07-08.15.59:321][456]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-08.15.59:365][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.59:367][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-08.15.59:367][456]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 6, 2020, 10:15:59 PM)
+[2020.04.07-08.15.59:367][456]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.15.59:381][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013168s)
+[2020.04.07-08.15.59:381][456]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.07-08.15.59:382][456]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2020.04.07-08.15.59:382][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014378s)
+[2020.04.07-08.15.59:435][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-08.15.59:436][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-08.15.59:436][456]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-08.15.59:436][456]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: Name: Speakers (2- High Definition Audio Device)
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: Channel Order:
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-08.15.59:463][456]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-08.15.59:475][456]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2020.04.07-08.15.59:478][456]LogInit: FAudioDevice initialized.
+[2020.04.07-08.15.59:487][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.07-08.15.59:492][456]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.07-03.15.59
+[2020.04.07-08.15.59:493][456]LogWorld: Bringing up level for play took: 0.005772
+[2020.04.07-08.15.59:494][456]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.04.07-08.15.59:498][456]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.352
+[2020.04.07-08.15.59:498][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.15.59:498][456]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.59:498][456]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.59:498][456]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.15.59:499][456]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.15.59:499][456]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.15.59:499][456]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.15.59:499][456]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.15.59:499][456]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.15.59:499][456]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.16.00:094][505]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.16.00:094][505]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.16.00:095][505]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.16.00:231][518]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.16.00:231][518]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.16.00:231][518]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.16.00:288][524]LogBlueprintUserMessages: [SideMinion5_14] SPOTTED
+[2020.04.07-08.16.00:288][524]LogBlueprintUserMessages: [SideMinion5_14] CAN NOT SEE PLAYER
+[2020.04.07-08.16.00:397][531]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.16.00:428][533]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.16.00:428][533]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.16.00:428][533]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.16.00:598][544]LogBlueprintUserMessages: [SideMinion4_11] SPOTTED
+[2020.04.07-08.16.00:599][544]LogBlueprintUserMessages: [SideMinion4_11] CAN NOT SEE PLAYER
+[2020.04.07-08.16.00:702][551]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.16.00:909][565]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.16.01:213][584]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.16.01:356][593]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.01:417][597]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.16.01:653][612]LogBlueprintUserMessages: [SideMinion3_8] SPOTTED
+[2020.04.07-08.16.01:653][612]LogBlueprintUserMessages: [SideMinion3_8] CAN NOT SEE PLAYER
+[2020.04.07-08.16.01:717][616]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.16.01:766][619]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.16.01:830][623]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.16.01:927][629]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.16.02:055][637]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.16.02:636][673]LogCharacterMovement: BlueBuff_2 is stuck and failed to move! Velocity: X=434.92 Y=397.97 Z=0.00 Location: X=-2294.06 Y=-910.77 Z=248.65 Normal: X=-0.94 Y=-0.34 Z=0.00 PenetrationDepth:2.127 Actor:SideMinion2_5 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2020.04.07-08.16.04:292][767]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.16.04:292][767]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.16.04:308][768]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.16.04:308][768]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.16.04:517][779]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.16.04:517][779]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.16.04:607][784]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.04:626][785]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.16.04:697][789]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.04:713][790]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.16.04:713][790]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.16.04:713][790]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.16.04:749][792]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.16.04:749][792]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.05:039][808]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.05:723][844]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.05:917][855]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.06:096][865]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.06:627][894]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.16.08:204][997]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.16.08:204][997]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.16.08:217][998]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.16.08:363][  8]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.16.08:363][  8]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.16.08:379][  9]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.16.08:421][ 12]LogCharacterMovement: BlueBuff_2 is stuck and failed to move! Velocity: X=-115.72 Y=135.91 Z=0.00 Location: X=-2215.54 Y=-969.42 Z=248.65 Normal: X=0.82 Y=-0.57 Z=0.00 PenetrationDepth:13.356 Actor:SideMinion2_5 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2020.04.07-08.16.11:948][257]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.16.12:272][280]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.16.13:012][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.16.13:013][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.16.13:013][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.16.13:016][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.16.13:016][331]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.16.13:016][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.16.13:016][331]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-08.16.13:017][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.16.13:043][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-08.16.13:043][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.16.13:050][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.16.13:097][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.16.13:100][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.16.13:106][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.04.07-08.16.13:134][332]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.04.07-08.21.28:345][333]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/MeleeAttack4958D7964538B5A3091CE18C812F11BD.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.uasset'
+[2020.04.07-08.21.28:363][333]AssetCheck: New page: Asset Save: MeleeAttack
+[2020.04.07-08.21.28:363][333]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.MeleeAttack
+[2020.04.07-08.21.28:899][386]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/MeleeAttackDCE04535479D77D7D9E003ABC4B6CCD5.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.uasset'
+[2020.04.07-08.21.28:918][386]AssetCheck: New page: Asset Save: MeleeAttack
+[2020.04.07-08.21.28:918][386]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.MeleeAttack
+[2020.04.07-08.21.29:245][422]BlueprintLog: New page: Compile MeleeAttack
+[2020.04.07-08.21.29:674][422]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.04.07-08.22.04:063][230]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/MeleeAttack48228CE547CE4922C2D3A2BB6851426B.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.uasset'
+[2020.04.07-08.22.04:083][230]AssetCheck: New page: Asset Save: MeleeAttack
+[2020.04.07-08.22.04:083][230]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.MeleeAttack
+[2020.04.07-08.22.04:984][325]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/MeleeAttack66CA148944B2BBCA0BF595A6113A0929.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.uasset'
+[2020.04.07-08.22.05:001][325]AssetCheck: New page: Asset Save: MeleeAttack
+[2020.04.07-08.22.05:001][325]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/Mobs/Minion/MeleeAttack.MeleeAttack
+[2020.04.07-08.22.05:242][350]BlueprintLog: New page: Compile MeleeAttack
+[2020.04.07-08.22.05:667][350]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.04.07-08.22.09:079][742]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.04.07-08.22.09:516][742]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/ThirdPersonExampleMapB676BA384351C57596CBB58EB4412D17.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.07-08.22.09:605][742]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/ThirdPersonExampleMap_BuiltData72606CF84385BD9F8AD9B2802911EE45.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.07-08.22.09:628][742]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-08.22.09:628][742]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.07-08.22.09:628][742]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.07-08.22.09:942][771]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-08.22.09:988][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.22.09:990][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-08.22.09:990][771]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 6, 2020, 10:22:09 PM)
+[2020.04.07-08.22.09:990][771]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.22.10:003][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012828s)
+[2020.04.07-08.22.10:004][771]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.07-08.22.10:004][771]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2020.04.07-08.22.10:004][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013825s)
+[2020.04.07-08.22.10:057][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.04.07-08.22.10:057][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-08.22.10:057][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-08.22.10:057][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-08.22.10:058][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-08.22.10:058][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-08.22.10:058][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-08.22.10:058][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-08.22.10:058][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-08.22.10:058][771]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-08.22.10:058][771]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: Name: Speakers (2- High Definition Audio Device)
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: Channel Order:
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-08.22.10:086][771]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-08.22.10:098][771]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2020.04.07-08.22.10:099][771]LogInit: FAudioDevice initialized.
+[2020.04.07-08.22.10:109][771]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.07-08.22.10:114][771]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.07-03.22.10
+[2020.04.07-08.22.10:115][771]LogWorld: Bringing up level for play took: 0.005172
+[2020.04.07-08.22.10:115][771]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.04.07-08.22.10:120][771]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.973
+[2020.04.07-08.22.10:120][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.22.10:120][771]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.10:120][771]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.10:120][771]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.10:121][771]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.22.10:121][771]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.22.10:121][771]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.22.10:121][771]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.22.10:121][771]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.22.10:121][771]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.22.10:717][812]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.22.10:717][812]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.22.10:717][812]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.22.10:928][833]LogBlueprintUserMessages: [Minion_AI_C_0] None
+[2020.04.07-08.22.10:928][833]LogBlueprintUserMessages: [Minion_AI_C_1] None
+[2020.04.07-08.22.10:929][833]LogBlueprintUserMessages: [Minion_AI_C_2] None
+[2020.04.07-08.22.10:953][835]LogBlueprintUserMessages: [SideMinion5_14] SPOTTED
+[2020.04.07-08.22.10:954][835]LogBlueprintUserMessages: [SideMinion5_14] CAN NOT SEE PLAYER
+[2020.04.07-08.22.11:044][842]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.11:044][842]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.11:044][842]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.11:059][843]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.22.11:226][854]LogBlueprintUserMessages: [SideMinion4_11] SPOTTED
+[2020.04.07-08.22.11:226][854]LogBlueprintUserMessages: [SideMinion4_11] CAN NOT SEE PLAYER
+[2020.04.07-08.22.11:340][862]LogBlueprintUserMessages: [SideMinion4_11] CAN  SEE PLAYER
+[2020.04.07-08.22.11:565][878]LogBlueprintUserMessages: [SideMinion5_14] CAN  SEE PLAYER
+[2020.04.07-08.22.12:195][920]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.12:437][936]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.12:637][949]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.15:466][128]LogBlueprintUserMessages: [SideMinion3_8] SPOTTED
+[2020.04.07-08.22.15:466][128]LogBlueprintUserMessages: [SideMinion3_8] CAN NOT SEE PLAYER
+[2020.04.07-08.22.15:577][134]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.22.15:670][139]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.15:726][142]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.22.16:453][181]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.16:587][188]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.16:626][190]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.17:042][216]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.17:868][265]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.17:868][265]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.22.17:885][266]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.18:386][299]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.18:386][299]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.22.18:386][299]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.18:386][299]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.22.18:402][300]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.18:402][300]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.24:557][752]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.22.24:882][776]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.25:803][845]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.22.25:911][853]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.25:911][853]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.26:128][869]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.26:182][873]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.26:182][873]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.26:343][885]LogBlueprintUserMessages: [IncrementPathIndex_C_5] INDEX CHANGED
+[2020.04.07-08.22.26:666][909]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.29:935][151]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.30:479][191]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.30:795][214]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.30:836][217]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.30:863][219]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.31:342][254]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.31:464][263]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.31:673][278]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.31:783][286]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.31:892][294]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.32:073][307]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.32:211][317]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.32:474][336]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.32:568][343]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.32:639][348]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.33:061][378]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.33:245][391]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.33:843][432]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.35:080][508]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.35:080][508]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.22.35:114][510]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.35:115][510]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.35:582][537]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.36:472][590]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.36:472][590]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.36:505][592]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.36:885][615]LogBlueprintUserMessages: [DecrementPathIndex_C_0] INDEX CHANGED
+[2020.04.07-08.22.37:212][635]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.37:566][657]LogBlueprintUserMessages: [DecrementPathIndex_C_0] INDEX CHANGED
+[2020.04.07-08.22.37:896][678]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.38:452][711]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.38:593][719]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.40:559][829]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.40:559][829]LogBlueprintUserMessages: [Minion_AI_C_1] FOLLOWING
+[2020.04.07-08.22.40:594][831]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.41:272][871]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.41:272][871]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.41:354][876]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.41:354][876]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.42:033][919]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.42:033][919]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.42:033][919]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.42:067][921]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.42:067][921]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.42:067][921]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.42:257][932]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.42:257][932]LogBlueprintUserMessages: [Minion_AI_C_2] FOLLOWING
+[2020.04.07-08.22.42:362][938]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.42:362][938]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.22.43:012][974]LogBlueprintUserMessages: [SideMinion3_8] CAN  SEE PLAYER
+[2020.04.07-08.22.43:364][994]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.44:085][ 38]LogBlueprintUserMessages: [Minion_AI_C_2] SwordCharacter_C_0
+[2020.04.07-08.22.44:829][ 80]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.45:638][125]LogBlueprintUserMessages: [DecrementPathIndex_C_0] INDEX CHANGED
+[2020.04.07-08.22.45:972][144]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.46:456][174]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.49:706][365]LogBlueprintUserMessages: [Minion_AI_C_0] SwordCharacter_C_0
+[2020.04.07-08.22.49:706][365]LogBlueprintUserMessages: [Minion_AI_C_0] FOLLOWING
+[2020.04.07-08.22.49:722][366]LogBlueprintUserMessages: [FindPathPoint_C_5] BLACKBOARD VECTOR SET
+[2020.04.07-08.22.49:930][380]LogBlueprintUserMessages: [Minion_AI_C_1] SwordCharacter_C_0
+[2020.04.07-08.22.49:974][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.22.49:990][383]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.07-08.22.50:010][383]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.07-08.22.50:010][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.22.50:012][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.22.50:012][383]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.07-08.22.50:012][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.22.50:013][383]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-08.22.50:014][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.22.50:034][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-08.22.50:035][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.07-08.22.50:041][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-08.22.50:086][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-08.22.50:089][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-08.22.50:095][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.04.07-08.22.50:123][384]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.04.07-08.22.51:120][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.04.07-08.22.51:546][489]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/ThirdPersonExampleMapF8136A6A4CB678B71430E49B245C3CF5.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.07-08.22.51:630][489]LogSavePackage: Moving '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Saved/ThirdPersonExampleMap_BuiltDataB0844FB343A753EC725295BE2163ED6A.tmp' to '../../../../../../Users/sraso/Documents/GitHub/MOBAGameClient/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.07-08.22.51:654][489]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-08.22.51:654][489]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.07-08.22.51:654][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
